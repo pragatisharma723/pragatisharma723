@@ -2,12 +2,15 @@
 
 A creative UI/UX enthusiast and Backend Developer who loves turning ideas into clean, functional web experiences.
 
-# 🔭 Currently focused on Data Structures & Algorithms, Machine Learning, and strengthening my Backend development skills
-# 🌱 Passionate about Web Development and continuously improving my coding craft
-# 🎨 Interested in UI/UX Designing with a strong eye for usability and design
-# 💻 Enjoys problem-solving and building efficient systems
-# 💬 Ask me about Web Development
-# ⚡ Fun fact: Sporty by nature and adventurous at heart — I love challenges, whether it’s in code or life 🏃‍♀️🌍
+<p>
+<sub>🔭 Currently focused on Data Structures & Algorithms, Machine Learning, and strengthening my Backend development skills</sub><br>
+<sub>🌱 Passionate about Web Development and continuously improving my coding craft</sub><br>
+<sub>🎨 Interested in UI/UX Designing with a strong eye for usability and design</sub><br>
+<sub>💻 Enjoys problem-solving and building efficient systems</sub><br>
+<sub>💬 Ask me about DSA, Backend basics, or UI/UX design concepts</sub><br>
+<sub>⚡ Fun fact: I’m a sporty and adventurous girl — whether it’s outdoor activities or new challenges, I’m always in! 🏃‍♀️⛰️</sub>
+</p>
+
 
 
 ## 🌐 Socials:
